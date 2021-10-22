@@ -8,7 +8,7 @@
 		"video_xpath": "//div[contains(@id='html5video')]/video"
 	},
 	{
-		"url_regex": "https%3A%2F%2Fspankbangssss.com%2F.*%2Fvideo%2F.*",
+		"url_regex": "https%3A%2F%2Fspankbang.com%2F.*%2Fvideo%2F.*",
 		"video_xpath": "//video[@id='main_video_playerrrrr_html5_api']"
 	},
 	{
