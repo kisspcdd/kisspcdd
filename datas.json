@@ -1,0 +1,26 @@
+[
+	{
+		"url_regex": "https%3A%2F%2F.*.pornhub.com%2Fview_video..*%3Fviewkey%3D.*",
+		"video_xpath": "//div[contains(@class,'_videoWrapper')]/video"
+	},
+	{
+		"url_regex": "https%3A%2F%2F.*.xvideos.com%2Fview_video.*%2Fvideo%2F.*",
+		"video_xpath": "//div[contains(@id='html5video')]"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fspankbang.com%2F.*%2Fvideo%2F.*",
+		"video_xpath": "//video[@id='main_video_player_html5_api']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Frule34video.com%2Fvideos%2F.*%2F.*",
+		"video_xpath": "//div[@id='kt_player']/div[@class='fp-player']/video"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fecchi.iwara.tv%2Fvideos%2F.*",
+		"video_xpath": "//video[@id='video-player_html5_api']"
+	},
+	{
+		"url_regex": "https%3A%2F%2Fpixeldrain.com%2Fu%2F.*",
+		"video_xpath": "//div[@class='image-container']/video"
+	}
+]
